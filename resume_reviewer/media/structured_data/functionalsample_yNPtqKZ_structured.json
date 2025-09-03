@@ -1,0 +1,562 @@
+{
+  "success": true,
+  "sections": [
+    {
+      "header": "Career Summary",
+      "content": [
+        "Four years experience in early childhood development with a diverse background in the care of special needs children and adults."
+      ]
+    },
+    {
+      "header": "Adult Care Experience",
+      "content": [
+        "Determined work placement for 150 special needs adult clients.  •",
+        "Maintained client databases and records.  •",
+        "Coordinated client contact with local health care professionals on a monthly basis.     •",
+        "Managed 25 volunteer workers.     •"
+      ]
+    },
+    {
+      "header": "Childcare Experience",
+      "content": [
+        "Coordinated service assignments for 20 part-time counselors and 100 client families. •",
+        "Oversaw daily activity and outing planning for 100 clients.  •",
+        "Assisted families of special needs clients with researching financial assistance and • healthcare.",
+        "Assisted teachers with managing daily classroom activities.    •",
+        "Oversaw daily and special student activities.     •"
+      ]
+    },
+    {
+      "header": "Employment History",
+      "content": [
+        "1999-2002Counseling Supervisor, The Wesley Center, Little Rock, Arkansas. 1997-1999Client Specialist, Rainbow Special Care Center, Little Rock, Arkansas 1996-1997 Teacher’s Assistant, Cowell Elementary, Conway, Arkansas"
+      ]
+    },
+    {
+      "header": "Education",
+      "content": [
+        "University of Arkansas at Little Rock, Little Rock, AR",
+        "BS in Early Childhood Development (1999) •",
+        "BA in Elementary Education (1998) •",
+        "GPA (4.0 Scale):  Early Childhood Development – 3.8, Elementary Education – 3.5, • Overall 3.4.",
+        "Dean’s List, Chancellor’s List •"
+      ]
+    }
+  ],
+  "summary": {
+    "total_sections": 5,
+    "section_names": [
+      "Career Summary",
+      "Adult Care Experience",
+      "Childcare Experience",
+      "Employment History",
+      "Education"
+    ],
+    "has_contact_info": true,
+    "has_education": true,
+    "has_experience": true,
+    "has_skills": false
+  },
+  "layout_metadata": {
+    "text_elements": [
+      {
+        "text": "Functional Resume Sample",
+        "page": 0,
+        "x": 72.0,
+        "y": 38.32032000000004,
+        "font_size": 16.019999999999982,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 25
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 56.74011600000006,
+        "font_size": 16.019999999999982,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "John W. Smith",
+        "page": 0,
+        "x": 261.06,
+        "y": 74.89967999999999,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "2002 Front Range Way Fort Collins, CO 80525",
+        "page": 0,
+        "x": 191.7,
+        "y": 90.55200000000002,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 45
+      },
+      {
+        "text": "jwsmith@colostate.edu",
+        "page": 0,
+        "x": 249.6,
+        "y": 104.35199999999998,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 22
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 306.0,
+        "y": 118.15199999999993,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Career Summary",
+        "page": 0,
+        "x": 72.0,
+        "y": 132.43967999999995,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 147.58368000000007,
+        "font_size": 7.9799999999999045,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Four years experience in early childhood development with a diverse background in the care of",
+        "page": 0,
+        "x": 72.0,
+        "y": 157.212,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 94
+      },
+      {
+        "text": "special needs children and adults.",
+        "page": 0,
+        "x": 72.0,
+        "y": 171.01199999999994,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 36
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 90.0,
+        "y": 181.03199999999993,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 2
+      },
+      {
+        "text": "Adult Care Experience",
+        "page": 0,
+        "x": 72.0,
+        "y": 194.47957999999994,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 22
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 209.50368000000003,
+        "font_size": 7.9799999999999045,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Determined work placement for 150 special needs adult clients.  •",
+        "page": 0,
+        "x": 95.52,
+        "y": 220.15200000000004,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 66
+      },
+      {
+        "text": "Maintained client databases and records.  •",
+        "page": 0,
+        "x": 95.52,
+        "y": 234.79200000000003,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 44
+      },
+      {
+        "text": "Coordinated client contact with local health care professionals on a monthly basis.     •",
+        "page": 0,
+        "x": 95.52,
+        "y": 249.49200000000008,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 90
+      },
+      {
+        "text": "Managed 25 volunteer workers.     •",
+        "page": 0,
+        "x": 95.52,
+        "y": 264.13200000000006,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 36
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 71.99999999999997,
+        "y": 277.9920000000001,
+        "font_size": 11.999999999999943,
+        "font_name": "LPNCHB+TimesNewRoman,Italic",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 1
+      },
+      {
+        "text": "Childcare Experience",
+        "page": 0,
+        "x": 72.0,
+        "y": 292.21968,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 21
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 307.24368,
+        "font_size": 7.980000000000018,
+        "font_name": "LPNCHB+TimesNewRoman,Italic",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 1
+      },
+      {
+        "text": "Coordinated service assignments for 20 part-time counselors and 100 client families. •",
+        "page": 0,
+        "x": 95.52,
+        "y": 317.892,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 87
+      },
+      {
+        "text": "Oversaw daily activity and outing planning for 100 clients.  •",
+        "page": 0,
+        "x": 95.52,
+        "y": 332.532,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 63
+      },
+      {
+        "text": "Assisted families of special needs clients with researching financial assistance and •",
+        "page": 0,
+        "x": 95.52,
+        "y": 347.23199999999997,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 87
+      },
+      {
+        "text": "healthcare.",
+        "page": 0,
+        "x": 108.0,
+        "y": 361.032,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "Assisted teachers with managing daily classroom activities.    •",
+        "page": 0,
+        "x": 95.52,
+        "y": 375.67199999999997,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 65
+      },
+      {
+        "text": "Oversaw daily and special student activities.     •",
+        "page": 0,
+        "x": 95.52,
+        "y": 390.31199999999995,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 52
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 404.17199999999997,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Employment History",
+        "page": 0,
+        "x": 72.0,
+        "y": 418.45968,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 20
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 434.05199999999996,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "1999-2002Counseling Supervisor, The Wesley Center, Little Rock, Arkansas.",
+        "page": 0,
+        "x": 124.02,
+        "y": 447.792,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 78
+      },
+      {
+        "text": "1997-1999Client Specialist, Rainbow Special Care Center, Little Rock, Arkansas",
+        "page": 0,
+        "x": 124.02,
+        "y": 461.592,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 81
+      },
+      {
+        "text": "1996-1997 Teacher’s Assistant, Cowell Elementary, Conway, Arkansas",
+        "page": 0,
+        "x": 72.0,
+        "y": 475.452,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 71
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 489.252,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Education",
+        "page": 0,
+        "x": 72.0,
+        "y": 503.53958,
+        "font_size": 13.980000000000018,
+        "font_name": "LPNBLO+TimesNewRoman,Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 10
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 518.50358,
+        "font_size": 7.980000000000018,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "University of Arkansas at Little Rock, Little Rock, AR",
+        "page": 0,
+        "x": 72.0,
+        "y": 528.432,
+        "font_size": 12.0,
+        "font_name": "LPNCHB+TimesNewRoman,Italic",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 56
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 542.1120000000001,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "BS in Early Childhood Development (1999) •",
+        "page": 0,
+        "x": 95.52,
+        "y": 556.752,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 43
+      },
+      {
+        "text": "BA in Elementary Education (1998) •",
+        "page": 0,
+        "x": 95.52,
+        "y": 571.452,
+        "font_size": 12.0,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 36
+      },
+      {
+        "text": "GPA (4.0 Scale):  Early Childhood Development – 3.8, Elementary Education – 3.5, •",
+        "page": 0,
+        "x": 95.52,
+        "y": 586.092,
+        "font_size": 12.000000000000028,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 83
+      },
+      {
+        "text": "Overall 3.4.",
+        "page": 0,
+        "x": 108.0,
+        "y": 599.892,
+        "font_size": 12.000000000000028,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 14
+      },
+      {
+        "text": "Dean’s List, Chancellor’s List •",
+        "page": 0,
+        "x": 95.52,
+        "y": 614.532,
+        "font_size": 12.000000000000028,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 33
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 628.392,
+        "font_size": 12.000000000000028,
+        "font_name": "LPNBNE+TimesNewRoman",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      }
+    ],
+    "font_statistics": {
+      "mean_font_size": 12.089302325581393,
+      "median_font_size": 12.0,
+      "max_font_size": 16.019999999999982,
+      "min_font_size": 7.9799999999999045,
+      "font_size_std": 1.671525407425518,
+      "bold_elements_count": 9,
+      "italic_elements_count": 6
+    },
+    "layout_analysis": {
+      "total_elements": 43,
+      "y_range": 590.07168,
+      "x_range": 234.00000000000003,
+      "column_boundaries": [
+        81.0,
+        101.75999999999999,
+        116.00999999999999,
+        157.85999999999999,
+        220.64999999999998,
+        255.32999999999998,
+        283.53
+      ],
+      "estimated_columns": 8
+    }
+  },
+  "error": null
+}

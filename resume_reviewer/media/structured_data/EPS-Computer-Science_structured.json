@@ -1,0 +1,625 @@
+{
+  "success": true,
+  "sections": [
+    {
+      "header": "EDUCATION",
+      "content": [
+        "University of California, Davis Davis, CA",
+        "Bachelor of Science in Computer Science | GPA: 3.2/4.0",
+        "Expected Graduation: June 2024",
+        "Relevant Coursework: Introduction to Probability Theory, Algorithm Design and Analysis, Computer Organization & Machine-Dependent Programming, Software Development in UNIX & C++"
+      ]
+    },
+    {
+      "header": "SKILLS",
+      "content": [
+        "● Computer: Proficient in R, MATLAB, C++, Advanced Proficiency in Java, Python, NodeJS, ReactJS,",
+        "Chart. js, HTML, CSS ● Software: LINUX, Windows, MacOS",
+        "● Languages: Fluent in English, Spanish, and Mandarin"
+      ]
+    },
+    {
+      "header": "WORK EXPERIENCE",
+      "content": [
+        "Software Engineering Intern, Oracle Cloud Infrastructure, Compute Imaging DP June 2022 - September 2022",
+        "● Utilized Swagger Spec to build an API Client for Oracle’s Instance Agent Admin Service.",
+        "● Redesigned and rebuilt current Agent Admin tool with ReactJs in tandem with Oracle Forge to implement",
+        "Role Based Access Control.",
+        "Software Engineering Intern, Oracle Cloud Infrastructure, EADevOps June 2021 - September 2021",
+        "● Developed foundation in Java to create test cases for and debug an Automation Testing Framework.",
+        "● Integrated Real-Time User Monitoring with test applications to conduct R&D for future use within the EADevOps team.",
+        "● Designed and developed web application using ReactJS for Front-end and NodeJS for Back-end to automate",
+        "Jenkins job creation process."
+      ]
+    },
+    {
+      "header": "PROJECTS",
+      "content": [
+        "Temperature Regulated Pet House, Intro to Engineering Design, UC Davis September 2022 - December 2022",
+        "● Developed an enclosure for animals fitted with an automated cooling system to combat the effects of rising temperatures on animals.",
+        "● Formulated a logic flowchart and wrote C++ code for the Arduino to run effectively based on temperature fluctuations.",
+        "● Presented final poster and prototype to convey purpose and solution to engineering professionals and peers.",
+        "Battleship, Object-Oriented Programming, Personal Project",
+        "April 2021 - June 2021 ● Recreated the game of Battleship to demonstrate Inheritance and Polymorphism.",
+        "● Incorporated the Linux Operating System Terminal to serve as the User Interface.",
+        "● Debugged errors and segmentation faults to ensure consistency and avoid memory leaks. ORGANIZATIONS",
+        "Leadership in Engineering Advancement Diversity and Retention (LEADR)",
+        "September 2019 – Present",
+        "Student Ambassador, University of California, Davis, CA",
+        "● Provide mentorship and organize social events to assist underrepresented freshman engineering majors transition to a University. st ndProvide programming tutoring for 1 and 2 year students in order to stimulate creativity and solidify fundamental concepts. ndProvide programming tutoring for 1 and 2 year students in order to stimulate creativity and solidify fundamental concepts. fundamental concepts."
+      ]
+    }
+  ],
+  "summary": {
+    "total_sections": 4,
+    "section_names": [
+      "EDUCATION",
+      "SKILLS",
+      "WORK EXPERIENCE",
+      "PROJECTS"
+    ],
+    "has_contact_info": true,
+    "has_education": true,
+    "has_experience": true,
+    "has_skills": true
+  },
+  "layout_metadata": {
+    "text_elements": [
+      {
+        "text": "Jiaming Chen jiachen@ucdavis.edu | Davis, CA | (345) 678-9101 | linkedin.com/jiamingchen",
+        "page": 0,
+        "x": 245.541882,
+        "y": 46.19804499934571,
+        "font_size": 19.999999500000058,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "jiachen@ucdavis.edu | Davis, CA | (345) 678-9101 | linkedin.com/jiamingchen",
+        "page": 0,
+        "x": 131.58363375,
+        "y": 71.29667630907716,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 75
+      },
+      {
+        "text": "EDUCATION",
+        "page": 0,
+        "x": 43.199997,
+        "y": 100.38921330907715,
+        "font_size": 11.000000249999971,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "University of California, Davis",
+        "page": 0,
+        "x": 43.199997,
+        "y": 114.93547730907721,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 31
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 223.199997,
+        "y": 114.93547730907721,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 2
+      },
+      {
+        "text": "Davis, CA",
+        "page": 0,
+        "x": 439.199997,
+        "y": 114.93547730907721,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 36
+      },
+      {
+        "text": "Bachelor of Science in Computer Science | GPA: 3.2/4.0",
+        "page": 0,
+        "x": 43.199997,
+        "y": 127.58441130907715,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 54
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 331.199997,
+        "y": 127.58441130907715,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 5
+      },
+      {
+        "text": "Expected Graduation: June 2024",
+        "page": 0,
+        "x": 367.199997,
+        "y": 127.58441130907715,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 47
+      },
+      {
+        "text": "Relevant Coursework: Introduction to Probability Theory, Algorithm Design and Analysis, Computer Organization",
+        "page": 0,
+        "x": 43.199997,
+        "y": 154.0321653090772,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 110
+      },
+      {
+        "text": "& Machine-Dependent Programming, Software Development in UNIX & C++",
+        "page": 0,
+        "x": 43.199997,
+        "y": 166.68109130907715,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 67
+      },
+      {
+        "text": "SKILLS",
+        "page": 0,
+        "x": 43.199997,
+        "y": 191.97894530907718,
+        "font_size": 11.000000249999971,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "● Computer: Proficient in R, MATLAB, C++, Advanced Proficiency in Java, Python, NodeJS, ReactJS,",
+        "page": 0,
+        "x": 61.199997,
+        "y": 206.52520535547842,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 96
+      },
+      {
+        "text": "Chart.js, HTML, CSS",
+        "page": 0,
+        "x": 79.199997,
+        "y": 221.12705530907715,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 20
+      },
+      {
+        "text": "● Software: LINUX, Windows, MacOS",
+        "page": 0,
+        "x": 61.199997,
+        "y": 235.67332535547848,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 32
+      },
+      {
+        "text": "● Languages: Fluent in English, Spanish, and Mandarin",
+        "page": 0,
+        "x": 61.199997,
+        "y": 250.27516535547852,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 52
+      },
+      {
+        "text": "WORK EXPERIENCE",
+        "page": 0,
+        "x": 43.199997,
+        "y": 280.7456653090771,
+        "font_size": 11.000000250000028,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Software Engineering Intern, Oracle Cloud Infrastructure, Compute Imaging DP          June 2022 - September 2022",
+        "page": 0,
+        "x": 43.199997,
+        "y": 295.29193530907713,
+        "font_size": 11.000000250000028,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 112
+      },
+      {
+        "text": "● Utilized Swagger Spec to build an API Client for Oracle’s Instance Agent Admin Service.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 307.9408553554785,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 88
+      },
+      {
+        "text": "● Redesigned and rebuilt current Agent Admin tool with ReactJs in tandem with Oracle Forge to implement",
+        "page": 0,
+        "x": 61.199997,
+        "y": 320.6381253554785,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 103
+      },
+      {
+        "text": "Role Based Access Control.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 333.33538530907714,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 26
+      },
+      {
+        "text": "Software Engineering Intern, Oracle Cloud Infrastructure, EADevOps                           June 2021 - September 2021",
+        "page": 0,
+        "x": 43.199997,
+        "y": 355.1835353090771,
+        "font_size": 11.000000250000028,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 119
+      },
+      {
+        "text": "● Developed foundation in Java to create test cases for and debug an Automation Testing Framework.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 367.83245535547854,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 97
+      },
+      {
+        "text": "● Integrated Real-Time User Monitoring with test applications to conduct R&D for future use within the",
+        "page": 0,
+        "x": 61.199997,
+        "y": 380.52972535547855,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 102
+      },
+      {
+        "text": "EADevOps team.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 393.2270153090771,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 14
+      },
+      {
+        "text": "● Designed and developed web application using ReactJS for Front-end and NodeJS for Back-end to automate",
+        "page": 0,
+        "x": 61.199997,
+        "y": 405.8759453554785,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 104
+      },
+      {
+        "text": "Jenkins job creation process.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 418.5732153090771,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 29
+      },
+      {
+        "text": "PROJECTS",
+        "page": 0,
+        "x": 43.199997,
+        "y": 447.09078530907715,
+        "font_size": 11.000000250000028,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 8
+      },
+      {
+        "text": "Temperature Regulated Pet House, Intro to Engineering Design, UC Davis   September 2022 - December 2022",
+        "page": 0,
+        "x": 43.199997,
+        "y": 461.63705530907714,
+        "font_size": 11.000000250000028,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 104
+      },
+      {
+        "text": "● Developed an enclosure for animals fitted with an automated cooling system to combat the effects of rising",
+        "page": 0,
+        "x": 61.199997,
+        "y": 476.1833153554785,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 108
+      },
+      {
+        "text": "temperatures on animals.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 488.8805853090771,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 25
+      },
+      {
+        "text": "● Formulated a logic flowchart and wrote C++ code for the Arduino to run effectively based on temperature",
+        "page": 0,
+        "x": 61.199997,
+        "y": 501.52950535547853,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 105
+      },
+      {
+        "text": "fluctuations.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 514.2268053090772,
+        "font_size": 11.000000250000028,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "● Presented final poster and prototype to convey purpose and solution to engineering professionals and peers.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 526.8757353554786,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 108
+      },
+      {
+        "text": "Battleship, Object-Oriented Programming, Personal Project",
+        "page": 0,
+        "x": 43.199997,
+        "y": 548.7722153090772,
+        "font_size": 11.00000025,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 57
+      },
+      {
+        "text": "April 2021 - June 2021",
+        "page": 0,
+        "x": 403.199997,
+        "y": 548.7722153090772,
+        "font_size": 11.00000025,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 30
+      },
+      {
+        "text": "● Recreated the game of Battleship to demonstrate Inheritance and Polymorphism.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 563.2130153554785,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 78
+      },
+      {
+        "text": "● Incorporated the Linux Operating System Terminal to serve as the User Interface.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 575.9102753554785,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 81
+      },
+      {
+        "text": "● Debugged errors and segmentation faults to ensure consistency and avoid memory leaks.",
+        "page": 0,
+        "x": 61.199997,
+        "y": 588.6075453554786,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 86
+      },
+      {
+        "text": "ORGANIZATIONS",
+        "page": 0,
+        "x": 43.199997,
+        "y": 615.25353808,
+        "font_size": 12.0,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Leadership in Engineering Advancement Diversity and Retention (LEADR)",
+        "page": 0,
+        "x": 43.199997,
+        "y": 628.9024653090772,
+        "font_size": 11.00000025,
+        "font_name": "AAAAAA+TimesNewRomanPS-BoldMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 70
+      },
+      {
+        "text": "September 2019 – Present",
+        "page": 0,
+        "x": 439.199997,
+        "y": 628.9024653090772,
+        "font_size": 11.00000025,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": false,
+        "is_italic": true,
+        "char_count": 28
+      },
+      {
+        "text": "Student Ambassador, University of California, Davis, CA",
+        "page": 0,
+        "x": 43.199997,
+        "y": 643.3433253090772,
+        "font_size": 11.00000025,
+        "font_name": "CAAAAA+TimesNewRomanPS-ItalicMT",
+        "is_bold": true,
+        "is_italic": true,
+        "char_count": 55
+      },
+      {
+        "text": "● Provide mentorship and organize social events to assist underrepresented freshman engineering majors",
+        "page": 0,
+        "x": 61.199997,
+        "y": 657.7841753554785,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 103
+      },
+      {
+        "text": "transition to a University.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 670.4814453090772,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "st nd●Provide programming tutoring for 1 and 2 year students in order to stimulate creativity and solidify fundamental concepts.",
+        "page": 0,
+        "x": 237.34150949999997,
+        "y": 682.4528122264463,
+        "font_size": 6.60000015,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 2
+      },
+      {
+        "text": "nd●Provide programming tutoring for 1 and 2 year students in order to stimulate creativity and solidify fundamental concepts.",
+        "page": 0,
+        "x": 268.60534950000005,
+        "y": 682.4528122264463,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 104
+      },
+      {
+        "text": "fundamental concepts.",
+        "page": 0,
+        "x": 79.199997,
+        "y": 695.8276353090772,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      }
+    ],
+    "font_statistics": {
+      "mean_font_size": 11.116666893749995,
+      "median_font_size": 11.00000025,
+      "max_font_size": 19.999999500000058,
+      "min_font_size": 6.60000015,
+      "font_size_std": 1.4484665296683525,
+      "bold_elements_count": 21,
+      "italic_elements_count": 13
+    },
+    "layout_analysis": {
+      "total_elements": 48,
+      "y_range": 649.6295903097315,
+      "x_range": 396.0,
+      "column_boundaries": [
+        52.199997,
+        70.199997,
+        105.391815375,
+        177.391815375,
+        257.07361575000004,
+        299.90267325,
+        349.199997,
+        385.199997,
+        421.199997
+      ],
+      "estimated_columns": 10
+    }
+  },
+  "error": null
+}
