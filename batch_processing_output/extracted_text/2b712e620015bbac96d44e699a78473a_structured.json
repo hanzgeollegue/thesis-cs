@@ -1,0 +1,1115 @@
+{
+  "success": true,
+  "sections": [
+    {
+      "header": "INSERT PASSPORT SIZE",
+      "content": [
+        "Home Address: Masumbol St., Chapter 1 Aplaya, Digos City. PHOTO"
+      ]
+    },
+    {
+      "header": "Contact #: 09913346208",
+      "content": [
+        "(use photo with formal pose,",
+        "Email: klentparaiso@g. cjc. edu. ph attire with collar, white",
+        "Portfolio: https://github. com/KlentParaiso background)"
+      ]
+    },
+    {
+      "header": "CAREER OBJECTIVES",
+      "content": [
+        "To learn and grow in the field of computer science through hands-on work and continuous improvement. continuous improvement."
+      ]
+    },
+    {
+      "header": "Age:",
+      "content": [
+        "Date of Birth: 10/08/2003"
+      ]
+    },
+    {
+      "header": "Gender:",
+      "content": [
+        "Male"
+      ]
+    },
+    {
+      "header": "Civil Status:",
+      "content": [
+        "Single"
+      ]
+    },
+    {
+      "header": "Height:",
+      "content": [
+        "5 ft. 8 inches"
+      ]
+    },
+    {
+      "header": "Weight:",
+      "content": [
+        "75 kg"
+      ]
+    },
+    {
+      "header": "Nationality:",
+      "content": [
+        "Filipino"
+      ]
+    },
+    {
+      "header": "Religion:",
+      "content": [
+        "Roman Catholic"
+      ]
+    },
+    {
+      "header": "SEMINARS AND TRAINING EXPERIENCES",
+      "content": [
+        "Seminar Title: Smooth Like Flutter! Exploring Cross-Platform Development Part One",
+        "Venue: Mapúa Malayan Colleges Mindanao, Davao City",
+        "Date: January 28, 2023",
+        "Seminar Title: Drop That Firebase! Exploring Cross-Platform Development Part Two",
+        "Venue: University of the Immaculate Conception Bonifacio Annex Campus, Davao City. Date:",
+        "March 4, 2023.",
+        "Computer System Servicing Passer (TechVoc)",
+        "Venue: Digos City National Highschool Date: 2022"
+      ]
+    },
+    {
+      "header": "Courselink Information Technology Literacy Training",
+      "content": [
+        "In Partnership with Cor Jesu College Inc.",
+        "Venue: Cor Jesu College Date: 2019"
+      ]
+    },
+    {
+      "header": "TECHNOLOGY SKILLS",
+      "content": [
+        "● Programming: Proficient in Python; basic understanding of Java and TypeScript",
+        "● Web Development: Familiar with HTML, CSS, and JavaScript through academic practice",
+        "● Data Analysis & Tools: Advanced knowledge of MS Excel; experience using Jupyter",
+        "Notebook for data projects"
+      ]
+    },
+    {
+      "header": "EDUCATIONAL BACKGROUND",
+      "content": [
+        "College",
+        "COR JESU COLLEGE 2022-Present 2022-Present",
+        "Bachelor of Science in Computer Science",
+        "Digos City, Davao del Sur High School",
+        "COR JESU COLLEGE - SHS DIGOS CITY NATIONAL2 016-2022",
+        "HIGH SCHOOL – JHS",
+        "Digos City, Davao del Sur Grade School",
+        "Don Mariano Marcos Elementary School 2010 - 2022 2010 - 2022",
+        "Digos City, Davao del Sur"
+      ]
+    },
+    {
+      "header": "DARYL IVAN E. HISOLA",
+      "content": [
+        "BSIT Practicum Coordinator",
+        "Cor Jesu College darylhisola@g. cjc. edu. ph / 09662882958 darylhisola@g. cjc. edu. ph / 09662882958"
+      ]
+    }
+  ],
+  "summary": {
+    "total_sections": 15,
+    "section_names": [
+      "INSERT PASSPORT SIZE",
+      "Contact #: 09913346208",
+      "CAREER OBJECTIVES",
+      "Age:",
+      "Gender:",
+      "Civil Status:",
+      "Height:",
+      "Weight:",
+      "Nationality:",
+      "Religion:",
+      "SEMINARS AND TRAINING EXPERIENCES",
+      "Courselink Information Technology Literacy Training",
+      "TECHNOLOGY SKILLS",
+      "EDUCATIONAL BACKGROUND",
+      "DARYL IVAN E. HISOLA"
+    ],
+    "has_contact_info": true,
+    "has_education": true,
+    "has_experience": true,
+    "has_skills": true
+  },
+  "layout_metadata": {
+    "text_elements": [
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 37.75199999999995,
+        "font_size": 12.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 60.38171999999997,
+        "font_size": 9.960000000000036,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 50.4,
+        "y": 72.60528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "KLENT DARRYL D. PARAISO",
+        "page": 0,
+        "x": 194.09,
+        "y": 73.62371999999993,
+        "font_size": 15.960000000000036,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 57
+      },
+      {
+        "text": "INSERT PASSPORT SIZE",
+        "page": 0,
+        "x": 63.984,
+        "y": 88.72399999999993,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "Home Address: Masumbol St., Chapter 1 Aplaya, Digos City.",
+        "page": 0,
+        "x": 194.09,
+        "y": 92.144,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 58
+      },
+      {
+        "text": "PHOTO",
+        "page": 0,
+        "x": 128.78,
+        "y": 99.73136,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "Contact #: 09913346208",
+        "page": 0,
+        "x": 194.09,
+        "y": 106.66399999999999,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "(use photo with formal pose,",
+        "page": 0,
+        "x": 62.184,
+        "y": 112.24399999999991,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 29
+      },
+      {
+        "text": "Email: klentparaiso@g.cjc.edu.ph attire with collar, white",
+        "page": 0,
+        "x": 194.09,
+        "y": 121.06400000000008,
+        "font_size": 12.0,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 59
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 136.58,
+        "y": 135.25135999999998,
+        "font_size": 9.959999999999923,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Portfolio: https://github.com/KlentParaiso background)",
+        "page": 0,
+        "x": 194.09,
+        "y": 135.58400000000006,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 54
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 194.09,
+        "y": 150.10400000000004,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "CAREER OBJECTIVES",
+        "page": 0,
+        "x": 194.09,
+        "y": 164.62400000000002,
+        "font_size": 12.0,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "To learn and grow in the field of computer science through hands-on work and continuous improvement.",
+        "page": 0,
+        "x": 194.09,
+        "y": 178.82528000000002,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 77
+      },
+      {
+        "text": "continuous improvement.",
+        "page": 0,
+        "x": 194.09,
+        "y": 192.14527999999996,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 24
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 194.09,
+        "y": 205.46528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "PERSONAL INFORMATION",
+        "page": 0,
+        "x": 45.0,
+        "y": 227.90527999999995,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 22
+      },
+      {
+        "text": "Age:",
+        "page": 0,
+        "x": 73.944,
+        "y": 247.10528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "21",
+        "page": 0,
+        "x": 171.26,
+        "y": 247.10528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 4
+      },
+      {
+        "text": "Date of Birth:  10/08/2003",
+        "page": 0,
+        "x": 73.944,
+        "y": 264.14527999999996,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 28
+      },
+      {
+        "text": "Gender:",
+        "page": 0,
+        "x": 73.944,
+        "y": 281.21528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "Male",
+        "page": 0,
+        "x": 171.26,
+        "y": 281.21528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 5
+      },
+      {
+        "text": "Civil Status:",
+        "page": 0,
+        "x": 73.944,
+        "y": 298.25527999999997,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Single",
+        "page": 0,
+        "x": 171.26,
+        "y": 300.41527999999994,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 7
+      },
+      {
+        "text": "Height:",
+        "page": 0,
+        "x": 73.944,
+        "y": 319.49528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "5 ft. 8 inches",
+        "page": 0,
+        "x": 171.26,
+        "y": 319.49528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Weight:",
+        "page": 0,
+        "x": 73.944,
+        "y": 336.53527999999994,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "75 kg",
+        "page": 0,
+        "x": 171.26,
+        "y": 336.53527999999994,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "Nationality:",
+        "page": 0,
+        "x": 73.944,
+        "y": 353.57528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 14
+      },
+      {
+        "text": "Filipino",
+        "page": 0,
+        "x": 171.26,
+        "y": 353.57528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "Religion:",
+        "page": 0,
+        "x": 73.944,
+        "y": 370.61528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "Roman Catholic",
+        "page": 0,
+        "x": 171.26,
+        "y": 370.61528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 386.09528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "SEMINARS AND TRAINING EXPERIENCES",
+        "page": 0,
+        "x": 45.0,
+        "y": 399.41527999999994,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 34
+      },
+      {
+        "text": "Seminar Title: Smooth Like Flutter! Exploring Cross-Platform Development Part",
+        "page": 0,
+        "x": 81.024,
+        "y": 412.73528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 78
+      },
+      {
+        "text": "One",
+        "page": 0,
+        "x": 81.024,
+        "y": 425.93528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 4
+      },
+      {
+        "text": "Venue: Mapúa Malayan Colleges Mindanao, Davao City",
+        "page": 0,
+        "x": 81.024,
+        "y": 439.25527999999997,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 51
+      },
+      {
+        "text": "Date: January 28, 2023",
+        "page": 0,
+        "x": 81.024,
+        "y": 452.57527999999996,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.024,
+        "y": 465.79528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Seminar Title: Drop That Firebase! Exploring Cross-Platform Development Part",
+        "page": 0,
+        "x": 81.024,
+        "y": 479.11528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 77
+      },
+      {
+        "text": "Two",
+        "page": 0,
+        "x": 81.024,
+        "y": 492.31528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 4
+      },
+      {
+        "text": "Venue: University of the Immaculate Conception Bonifacio Annex Campus, Davao City. Date:",
+        "page": 0,
+        "x": 81.024,
+        "y": 505.63527999999997,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 89
+      },
+      {
+        "text": "March 4, 2023.",
+        "page": 0,
+        "x": 81.024,
+        "y": 518.9552799999999,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.024,
+        "y": 532.15528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Computer System Servicing Passer (TechVoc)",
+        "page": 0,
+        "x": 81.024,
+        "y": 545.47528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 43
+      },
+      {
+        "text": "Venue: Digos City National Highschool",
+        "page": 0,
+        "x": 81.024,
+        "y": 558.79528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "Date: 2022",
+        "page": 0,
+        "x": 81.024,
+        "y": 571.99528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 585.31528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Courselink Information Technology Literacy Training",
+        "page": 0,
+        "x": 279.53,
+        "y": 598.2891999999999,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 54
+      },
+      {
+        "text": "In Partnership with Cor Jesu College Inc.",
+        "page": 0,
+        "x": 81.024,
+        "y": 611.83528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 43
+      },
+      {
+        "text": "Venue: Cor Jesu College",
+        "page": 0,
+        "x": 81.024,
+        "y": 625.15528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 24
+      },
+      {
+        "text": "Date: 2019",
+        "page": 0,
+        "x": 81.024,
+        "y": 638.47528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "TECHNOLOGY SKILLS",
+        "page": 0,
+        "x": 45.0,
+        "y": 651.6752799999999,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "● Programming: Proficient in Python; basic understanding of Java and TypeScript",
+        "page": 0,
+        "x": 81.024,
+        "y": 665.02528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 80
+      },
+      {
+        "text": "● Web Development: Familiar with HTML, CSS, and JavaScript through academic practice",
+        "page": 0,
+        "x": 81.024,
+        "y": 680.2652800000001,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 85
+      },
+      {
+        "text": "● Data Analysis & Tools: Advanced knowledge of MS Excel; experience using Jupyter",
+        "page": 0,
+        "x": 81.024,
+        "y": 695.62528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 82
+      },
+      {
+        "text": "Notebook for data projects",
+        "page": 0,
+        "x": 81.024,
+        "y": 710.86528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "EDUCATIONAL BACKGROUND",
+        "page": 0,
+        "x": 45.0,
+        "y": 726.10528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "College",
+        "page": 0,
+        "x": 77.424,
+        "y": 739.30528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 8
+      },
+      {
+        "text": "COR JESU COLLEGE 2022-Present",
+        "page": 0,
+        "x": 176.3,
+        "y": 739.30528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "2022-Present",
+        "page": 0,
+        "x": 446.59,
+        "y": 739.30528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Bachelor of Science in Computer Science",
+        "page": 0,
+        "x": 176.3,
+        "y": 752.62528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 40
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 765.94528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 176.3,
+        "y": 779.14528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "High School",
+        "page": 0,
+        "x": 77.424,
+        "y": 792.46528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "COR JESU COLLEGE - SHS DIGOS CITY NATIONAL2 016-2022",
+        "page": 0,
+        "x": 176.3,
+        "y": 792.46528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 53
+      },
+      {
+        "text": "HIGH SCHOOL – JHS",
+        "page": 0,
+        "x": 176.3,
+        "y": 805.7852800000001,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 818.98528,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 26
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 176.3,
+        "y": 832.30128,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Grade School",
+        "page": 0,
+        "x": 77.424,
+        "y": 845.6212800000001,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Don Mariano Marcos Elementary School 2010 - 2022",
+        "page": 0,
+        "x": 176.3,
+        "y": 845.6212800000001,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 37
+      },
+      {
+        "text": "2010 - 2022",
+        "page": 0,
+        "x": 446.59,
+        "y": 845.6212800000001,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 858.84528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 26
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 176.3,
+        "y": 60.48527999999999,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 73.80527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 72.024,
+        "y": 73.80527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 87.14527999999996,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "REFERENCES",
+        "page": 1,
+        "x": 45.0,
+        "y": 100.34528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 113.66527999999994,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "DARYL IVAN E. HISOLA",
+        "page": 1,
+        "x": 45.0,
+        "y": 126.98527999999999,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "BSIT Practicum Coordinator",
+        "page": 1,
+        "x": 45.0,
+        "y": 140.18528000000003,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "Cor Jesu College darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 153.50527999999997,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 166.82528000000002,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 180.02527999999995,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 193.34528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      }
+    ],
+    "font_statistics": {
+      "mean_font_size": 11.079069767441858,
+      "median_font_size": 11.04000000000002,
+      "max_font_size": 15.960000000000036,
+      "min_font_size": 9.0,
+      "font_size_std": 0.7261232323930157,
+      "bold_elements_count": 45,
+      "italic_elements_count": 0
+    },
+    "layout_analysis": {
+      "total_elements": 86,
+      "y_range": 821.09328,
+      "x_range": 401.59,
+      "column_boundaries": [
+        56.292,
+        104.902,
+        153.92000000000002,
+        185.195,
+        236.81,
+        363.05999999999995
+      ],
+      "estimated_columns": 7
+    }
+  },
+  "error": null
+}

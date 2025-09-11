@@ -1,0 +1,1361 @@
+{
+  "success": true,
+  "sections": [
+    {
+      "header": "PYRRRHUS ELCID S. GO",
+      "content": [
+        "Home Address: ACACIAHAN PRUOK KAWAYAN RIZAL AVENUE DIGOS CITY"
+      ]
+    },
+    {
+      "header": "Contact #: 09916475771",
+      "content": [
+        "Email: gopyrrhus@g. cjc. edu. ph Portfolio: https://github. com/neko-san1432"
+      ]
+    },
+    {
+      "header": "CAREER OBJECTIVES",
+      "content": [
+        "Passionate about building things that work. Eager to apply my skills in",
+        "Python, and SQL to develop clean, functional software in a fastpaced engineering team. Looking for a role where I can learn from senior developers while contributing to production-ready code. engineering team. Looking for a role where I can learn from senior developers while contributing to production-ready code. developers while contributing to production-ready code."
+      ]
+    },
+    {
+      "header": "Age:",
+      "content": [
+        "20 years old",
+        "Date of Birth: 07/14/2004"
+      ]
+    },
+    {
+      "header": "Civil Status:",
+      "content": [
+        "Single"
+      ]
+    },
+    {
+      "header": "Height:",
+      "content": [
+        "5 ft. 9 inches"
+      ]
+    },
+    {
+      "header": "Weight:",
+      "content": [
+        "96 kg"
+      ]
+    },
+    {
+      "header": "Nationality:",
+      "content": [
+        "Filipino"
+      ]
+    },
+    {
+      "header": "Religion:",
+      "content": [
+        "Roman Catholic"
+      ]
+    },
+    {
+      "header": "SEMINARS AND TRAINING EXPERIENCES",
+      "content": [
+        "IDEAS Pitching Session",
+        "Venue: Davao del Sur State College, Mati",
+        "Date: March 28, 2025"
+      ]
+    },
+    {
+      "header": "Technical Support Fundamentals Training",
+      "content": [
+        "Venue: Coursera",
+        "Date: April 6, 2023",
+        "HACKED Davao Seminar Venue: Discord",
+        "Date: April 27, 2025",
+        "Anti-Cybercrime Group Seminar",
+        "Venue: CIDG, Manila",
+        "Date: March 19, 2025 ToonCity Seminar",
+        "Venue: Makati City",
+        "Date: March 16, 2025"
+      ]
+    },
+    {
+      "header": "TECHNOLOGY SKILLS",
+      "content": [
+        "Web stack - Vanilla Web (HTML, CSS, JS) ● Java ●",
+        "Database Management - Supabase & SQL ● Python ●"
+      ]
+    },
+    {
+      "header": "EDUCATIONAL BACKGROUND",
+      "content": [
+        "College",
+        "COR JESU COLLEGE 2022-Present 2022-Present",
+        "Bachelor of Science in Computer Science",
+        "Digos City, Davao del Sur High School",
+        "COR JESU COLLEGE 2016-2020 2016-2020",
+        "Digos City, Davao del Sur Grade School",
+        "SEVENTH DAY ADVENTIST 2009-2016 2009-2016",
+        "Digos City, Davao del Sur"
+      ]
+    },
+    {
+      "header": "DARYL IVAN E. HISOLA",
+      "content": [
+        "BSIT Practicum Coordinator",
+        "Cor Jesu College darylhisola@g. cjc. edu. ph / 09662882958 darylhisola@g. cjc. edu. ph / 09662882958"
+      ]
+    },
+    {
+      "header": "ATTY. ANATOLIO N. AVILA JR.",
+      "content": [
+        "District Public Attorney",
+        "Public Attorney’s Office (PAO) , Sulop District Office",
+        "Chairman, District Election Committee (DECOM)"
+      ]
+    },
+    {
+      "header": "FR. CYPREN F. BALASBAS",
+      "content": [
+        "SBMSP Moderator/ Father / Scholar in-charge",
+        "Benedictine Monastery, Cogon 09207399000"
+      ]
+    },
+    {
+      "header": "BR. CYRIL A. MEDILLO",
+      "content": [
+        "SBMSP Labora-in-charge",
+        "Benedictine Monastery, Cogon 09995870731"
+      ]
+    }
+  ],
+  "summary": {
+    "total_sections": 17,
+    "section_names": [
+      "PYRRRHUS ELCID S. GO",
+      "Contact #: 09916475771",
+      "CAREER OBJECTIVES",
+      "Age:",
+      "Civil Status:",
+      "Height:",
+      "Weight:",
+      "Nationality:",
+      "Religion:",
+      "SEMINARS AND TRAINING EXPERIENCES",
+      "Technical Support Fundamentals Training",
+      "TECHNOLOGY SKILLS",
+      "EDUCATIONAL BACKGROUND",
+      "DARYL IVAN E. HISOLA",
+      "ATTY. ANATOLIO N. AVILA JR.",
+      "FR. CYPREN F. BALASBAS",
+      "BR. CYRIL A. MEDILLO"
+    ],
+    "has_contact_info": true,
+    "has_education": true,
+    "has_experience": true,
+    "has_skills": true
+  },
+  "layout_metadata": {
+    "text_elements": [
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 37.79882808000002,
+        "font_size": 12.0,
+        "font_name": "AAAAAA+TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 60.37030774836421,
+        "font_size": 9.999999749999915,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "PYRRRHUS ELCID S. GO",
+        "page": 0,
+        "x": 202.5,
+        "y": 73.68280762327151,
+        "font_size": 16.000000499999942,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 56
+      },
+      {
+        "text": "Home Address: ACACIAHAN PRUOK KAWAYAN RIZAL AVENUE DIGOS CITY",
+        "page": 0,
+        "x": 202.5,
+        "y": 92.16718301499998,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 62
+      },
+      {
+        "text": "Contact #: 09916475771",
+        "page": 0,
+        "x": 202.5,
+        "y": 106.65156601499996,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "Email: gopyrrhus@g.cjc.edu.ph",
+        "page": 0,
+        "x": 202.5,
+        "y": 121.13594101499996,
+        "font_size": 12.0,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 30
+      },
+      {
+        "text": "Portfolio: https://github.com/neko-san1432",
+        "page": 0,
+        "x": 202.5,
+        "y": 135.62031601499996,
+        "font_size": 12.0,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 43
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 202.5,
+        "y": 150.10469101499996,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "CAREER OBJECTIVES",
+        "page": 0,
+        "x": 202.5,
+        "y": 164.58906601499996,
+        "font_size": 12.0,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "Passionate about building things that work. Eager to apply my skills in",
+        "page": 0,
+        "x": 202.5,
+        "y": 179.07344501499995,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 72
+      },
+      {
+        "text": "Python, and SQL to develop clean, functional software in a fast-paced engineering team. Looking for a role where I can learn from senior developers while contributing to production-ready code.",
+        "page": 0,
+        "x": 202.5,
+        "y": 193.55781501499996,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 71
+      },
+      {
+        "text": "engineering team. Looking for a role where I can learn from senior developers while contributing to production-ready code.",
+        "page": 0,
+        "x": 202.5,
+        "y": 208.04219501499995,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 68
+      },
+      {
+        "text": "developers while contributing to production-ready code.",
+        "page": 0,
+        "x": 202.5,
+        "y": 222.52656501499996,
+        "font_size": 12.0,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 56
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 202.5,
+        "y": 236.80391354663573,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "PERSONAL INFORMATION",
+        "page": 0,
+        "x": 45.0,
+        "y": 258.6476435466358,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "Age:",
+        "page": 0,
+        "x": 73.5,
+        "y": 277.92498354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "20 years old",
+        "page": 0,
+        "x": 171.0,
+        "y": 277.92498354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Date of Birth:  07/14/2004",
+        "page": 0,
+        "x": 73.5,
+        "y": 294.9523335466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "Gender:",
+        "page": 0,
+        "x": 73.5,
+        "y": 311.9796735466358,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "M",
+        "page": 0,
+        "x": 171.0,
+        "y": 311.9796735466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 2
+      },
+      {
+        "text": "Civil Status:",
+        "page": 0,
+        "x": 73.5,
+        "y": 329.00702354663565,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Single",
+        "page": 0,
+        "x": 171.0,
+        "y": 329.49334354663574,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 7
+      },
+      {
+        "text": "Height:",
+        "page": 0,
+        "x": 73.5,
+        "y": 347.00702354663565,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "5 ft. 9 inches",
+        "page": 0,
+        "x": 171.0,
+        "y": 347.00702354663565,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Weight:",
+        "page": 0,
+        "x": 73.5,
+        "y": 364.03436354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "96 kg",
+        "page": 0,
+        "x": 171.0,
+        "y": 364.03436354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "Nationality:",
+        "page": 0,
+        "x": 73.5,
+        "y": 381.0617035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 14
+      },
+      {
+        "text": "Filipino",
+        "page": 0,
+        "x": 171.0,
+        "y": 381.0617035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "Religion:",
+        "page": 0,
+        "x": 73.5,
+        "y": 398.0890535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "Roman Catholic",
+        "page": 0,
+        "x": 171.0,
+        "y": 398.0890535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 414.3663935466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "SEMINARS AND TRAINING EXPERIENCES",
+        "page": 0,
+        "x": 45.0,
+        "y": 427.64373354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 34
+      },
+      {
+        "text": "IDEAS Pitching Session",
+        "page": 0,
+        "x": 81.0,
+        "y": 440.9210835466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "Venue: Davao del Sur State College, Mati",
+        "page": 0,
+        "x": 81.0,
+        "y": 454.1984235466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 41
+      },
+      {
+        "text": "Date: March 28, 2025",
+        "page": 0,
+        "x": 81.0,
+        "y": 467.47577354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 480.75311354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Technical Support Fundamentals Training",
+        "page": 0,
+        "x": 81.0,
+        "y": 494.0304535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 40
+      },
+      {
+        "text": "Venue: Coursera",
+        "page": 0,
+        "x": 81.0,
+        "y": 507.3078035466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 16
+      },
+      {
+        "text": "Date: April 6, 2023",
+        "page": 0,
+        "x": 81.0,
+        "y": 520.5851435466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 20
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 533.8624835466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "HACKED Davao Seminar",
+        "page": 0,
+        "x": 81.0,
+        "y": 547.1398335466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "Venue: Discord",
+        "page": 0,
+        "x": 81.0,
+        "y": 560.4171735466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Date: April 27, 2025",
+        "page": 0,
+        "x": 81.0,
+        "y": 573.6945235466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 586.9718635466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Anti-Cybercrime Group Seminar",
+        "page": 0,
+        "x": 81.0,
+        "y": 600.2492035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 30
+      },
+      {
+        "text": "Venue: CIDG, Manila",
+        "page": 0,
+        "x": 81.0,
+        "y": 613.5265535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 20
+      },
+      {
+        "text": "Date: March 19, 2025",
+        "page": 0,
+        "x": 81.0,
+        "y": 626.8038935466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 640.0812335466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "ToonCity Seminar",
+        "page": 0,
+        "x": 81.0,
+        "y": 653.3585835466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "Venue: Makati City",
+        "page": 0,
+        "x": 81.0,
+        "y": 666.6359235466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 19
+      },
+      {
+        "text": "Date: March 16, 2025",
+        "page": 0,
+        "x": 81.0,
+        "y": 679.9132735466358,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 693.1906135466357,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 706.4679535466357,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.0,
+        "y": 719.7453035466357,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "TECHNOLOGY SKILLS",
+        "page": 0,
+        "x": 45.0,
+        "y": 733.0226435466358,
+        "font_size": 11.00000025,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "Web stack - Vanilla Web (HTML, CSS, JS) ●",
+        "page": 0,
+        "x": 81.0,
+        "y": 746.2999835466358,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 42
+      },
+      {
+        "text": "Java ●",
+        "page": 0,
+        "x": 81.0,
+        "y": 761.6368435466358,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 7
+      },
+      {
+        "text": "Database Management - Supabase & SQL ●",
+        "page": 0,
+        "x": 81.0,
+        "y": 776.9737535466357,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "Python ●",
+        "page": 0,
+        "x": 81.0,
+        "y": 792.3106735466357,
+        "font_size": 11.00000025,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "C++ ●",
+        "page": 0,
+        "x": 81.0,
+        "y": 807.6475235466357,
+        "font_size": 11.000000250000014,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.0,
+        "y": 822.9844335466357,
+        "font_size": 11.000000250000014,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 838.2534135466358,
+        "font_size": 11.000000250000014,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 851.5307635466357,
+        "font_size": 11.000000250000014,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 864.8081035466357,
+        "font_size": 11.000000250000006,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "EDUCATIONAL BACKGROUND",
+        "page": 1,
+        "x": 45.0,
+        "y": 60.57727054663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "College",
+        "page": 1,
+        "x": 77.25,
+        "y": 73.85461454663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 8
+      },
+      {
+        "text": "COR JESU COLLEGE 2022-Present",
+        "page": 1,
+        "x": 176.25,
+        "y": 73.85461454663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "2022-Present",
+        "page": 1,
+        "x": 446.25,
+        "y": 73.85461454663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Bachelor of Science in Computer Science",
+        "page": 1,
+        "x": 176.25,
+        "y": 87.1319575466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 40
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 1,
+        "x": 176.25,
+        "y": 100.40930154663567,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 176.25,
+        "y": 113.68664554663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "High School",
+        "page": 1,
+        "x": 77.25,
+        "y": 126.96398954663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "COR JESU COLLEGE 2016-2020",
+        "page": 1,
+        "x": 176.25,
+        "y": 126.96398954663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "2016-2020",
+        "page": 1,
+        "x": 446.25,
+        "y": 126.96398954663573,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 10
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 1,
+        "x": 176.25,
+        "y": 140.2413325466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 26
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 176.25,
+        "y": 153.51867654663567,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Grade School",
+        "page": 1,
+        "x": 77.25,
+        "y": 166.79602054663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "SEVENTH DAY ADVENTIST 2009-2016",
+        "page": 1,
+        "x": 176.25,
+        "y": 166.79602054663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 22
+      },
+      {
+        "text": "2009-2016",
+        "page": 1,
+        "x": 446.25,
+        "y": 166.79602054663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 10
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 1,
+        "x": 176.25,
+        "y": 180.07336354663573,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 26
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 193.3507035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 72.0,
+        "y": 193.3507035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 206.62805354663567,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "REFERENCES",
+        "page": 1,
+        "x": 45.0,
+        "y": 219.90539354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 233.18274354663572,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "DARYL IVAN E. HISOLA",
+        "page": 1,
+        "x": 45.0,
+        "y": 246.4600835466357,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "BSIT Practicum Coordinator",
+        "page": 1,
+        "x": 45.0,
+        "y": 259.7374235466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "Cor Jesu College darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 273.01477354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 286.29211354663573,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 299.5694535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "ATTY. ANATOLIO N. AVILA JR.",
+        "page": 1,
+        "x": 45.0,
+        "y": 312.84680354663567,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 28
+      },
+      {
+        "text": "District Public Attorney",
+        "page": 1,
+        "x": 45.0,
+        "y": 326.12414354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 25
+      },
+      {
+        "text": "Public Attorney’s Office (PAO), Sulop District Office",
+        "page": 1,
+        "x": 45.0,
+        "y": 339.4014935466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 54
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 352.6788335466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Chairman, District Election Committee (DECOM)",
+        "page": 1,
+        "x": 45.0,
+        "y": 365.9561735466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 46
+      },
+      {
+        "text": "DASURECO 09292262512",
+        "page": 1,
+        "x": 45.0,
+        "y": 379.23352354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "09292262512",
+        "page": 1,
+        "x": 45.0,
+        "y": 392.51086354663573,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 405.7882035466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "FR. CYPREN F. BALASBAS",
+        "page": 1,
+        "x": 45.0,
+        "y": 419.06555354663567,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "SBMSP Moderator/ Father / Scholar in-charge",
+        "page": 1,
+        "x": 45.0,
+        "y": 432.34289354663576,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 44
+      },
+      {
+        "text": "Benedictine Monastery, Cogon 09207399000",
+        "page": 1,
+        "x": 45.0,
+        "y": 445.6202435466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 29
+      },
+      {
+        "text": "09207399000",
+        "page": 1,
+        "x": 45.0,
+        "y": 458.8975835466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 472.1749235466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "BR. CYRIL A. MEDILLO",
+        "page": 1,
+        "x": 45.0,
+        "y": 485.45227354663575,
+        "font_size": 11.000000249999971,
+        "font_name": "CAAAAA+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "SBMSP Labora-in-charge",
+        "page": 1,
+        "x": 45.0,
+        "y": 498.72961354663573,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "Benedictine Monastery, Cogon 09995870731",
+        "page": 1,
+        "x": 45.0,
+        "y": 512.0069535466357,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 29
+      },
+      {
+        "text": "09995870731",
+        "page": 1,
+        "x": 45.0,
+        "y": 525.2843035466358,
+        "font_size": 11.000000249999971,
+        "font_name": "BAAAAA+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 12
+      }
+    ],
+    "font_statistics": {
+      "mean_font_size": 11.140187137850457,
+      "median_font_size": 11.000000249999971,
+      "max_font_size": 16.000000499999942,
+      "min_font_size": 9.999999749999915,
+      "font_size_std": 0.5710884435064214,
+      "bold_elements_count": 44,
+      "italic_elements_count": 0
+    },
+    "layout_analysis": {
+      "total_elements": 107,
+      "y_range": 827.0092754666357,
+      "x_range": 401.25,
+      "column_boundaries": [
+        58.5,
+        126.0,
+        189.375,
+        324.375
+      ],
+      "estimated_columns": 5
+    }
+  },
+  "error": null
+}
