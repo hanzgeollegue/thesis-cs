@@ -1,0 +1,989 @@
+{
+  "success": true,
+  "sections": [
+    {
+      "header": "Contact #: 09516325681",
+      "content": [
+        "Email: joshtimosan@g. cjc. edu. ph Portfolio: https://github. com/JoshTimosan309"
+      ]
+    },
+    {
+      "header": "CAREER OBJECTIVES",
+      "content": [
+        "To gain hands-on experience in software development and ● enhance my skills in coding, debugging, and problem-solving within a professional setting. within a professional setting.",
+        "To apply my knowledge of computer science concepts in ● real-world projects and contribute effectively to a team"
+      ]
+    },
+    {
+      "header": "INSERT PASSPORT SIZE",
+      "content": [
+        "To develop expertise in modern programming technologies and ● PHOTO strengthen my ability to solve technical challenges creatively (use photo with formal pose, strengthen my ability to solve technical challenges creatively (use photo with formal pose, and efficiently attire with collar, white background) background)"
+      ]
+    },
+    {
+      "header": "Age:",
+      "content": [
+        "22 years old",
+        "Date of Birth: March 9, 2003"
+      ]
+    },
+    {
+      "header": "Gender:",
+      "content": [
+        "Male"
+      ]
+    },
+    {
+      "header": "Civil Status:",
+      "content": [
+        "Single"
+      ]
+    },
+    {
+      "header": "Height:",
+      "content": [
+        "5 ft. 11 inches"
+      ]
+    },
+    {
+      "header": "Weight:",
+      "content": [
+        "55 kg"
+      ]
+    },
+    {
+      "header": "Nationality:",
+      "content": [
+        "Filipino"
+      ]
+    },
+    {
+      "header": "Religion:",
+      "content": [
+        "Roman Catholic"
+      ]
+    },
+    {
+      "header": "SEMINARS AND TRAINING EXPERIENCES",
+      "content": [
+        "Seminar Title: IDEAS Plugin Activity",
+        "Venue: Davao del Sur State College",
+        "Date: March 27-28, 2025"
+      ]
+    },
+    {
+      "header": "TECHNOLOGY SKILLS",
+      "content": [
+        "Skill 1 – Basic knowledge of Python and Java, with experience in small academic projects. ●",
+        "Skill 2 – Familiar with HTML, CSS, and JavaScript for simple web pages and front-end ● development.",
+        "Skill 3 – Previously worked with MySQL in academic projects. ●"
+      ]
+    },
+    {
+      "header": "EDUCATIONAL BACKGROUND",
+      "content": [
+        "College",
+        "COR JESU COLLEGE 2022-Present 2022-Present",
+        "Bachelor of Science in Computer Science",
+        "Digos City, Davao del Sur High School",
+        "St. Mary’s College of Bansalan, INC 2016-2022 2016-2022",
+        "Dahlia Street, Bansalan, Davao del Sur Grade School",
+        "St. Mary’s College of Bansalan, INC 2010-2016 2010-2016",
+        "Dahlia Street, Bansalan, Davao del Sur"
+      ]
+    },
+    {
+      "header": "DARYL IVAN E. HISOLA",
+      "content": [
+        "BSIT Practicum Coordinator",
+        "Cor Jesu College darylhisola@g. cjc. edu. ph / 09662882958 darylhisola@g. cjc. edu. ph / 09662882958"
+      ]
+    }
+  ],
+  "summary": {
+    "total_sections": 14,
+    "section_names": [
+      "Contact #: 09516325681",
+      "CAREER OBJECTIVES",
+      "INSERT PASSPORT SIZE",
+      "Age:",
+      "Gender:",
+      "Civil Status:",
+      "Height:",
+      "Weight:",
+      "Nationality:",
+      "Religion:",
+      "SEMINARS AND TRAINING EXPERIENCES",
+      "TECHNOLOGY SKILLS",
+      "EDUCATIONAL BACKGROUND",
+      "DARYL IVAN E. HISOLA"
+    ],
+    "has_contact_info": true,
+    "has_education": true,
+    "has_experience": true,
+    "has_skills": true
+  },
+  "layout_metadata": {
+    "text_elements": [
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 37.75199999999995,
+        "font_size": 12.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 60.38171999999997,
+        "font_size": 9.960000000000036,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 3
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 50.4,
+        "y": 72.60528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Josh Andre C. Timosan",
+        "page": 0,
+        "x": 185.18,
+        "y": 73.62371999999993,
+        "font_size": 15.960000000000036,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 22
+      },
+      {
+        "text": "Home Address: Ramon Delos Cientos St., Bansalan, Davao del Sur.",
+        "page": 0,
+        "x": 185.18,
+        "y": 92.144,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 64
+      },
+      {
+        "text": "Contact #: 09516325681",
+        "page": 0,
+        "x": 185.18,
+        "y": 106.66399999999999,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "Email: joshtimosan@g.cjc.edu.ph",
+        "page": 0,
+        "x": 185.18,
+        "y": 121.06400000000008,
+        "font_size": 12.0,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 32
+      },
+      {
+        "text": "Portfolio: https://github.com/JoshTimosan309",
+        "page": 0,
+        "x": 185.18,
+        "y": 135.58400000000006,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 45
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 185.18,
+        "y": 150.10400000000004,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "CAREER OBJECTIVES",
+        "page": 0,
+        "x": 185.18,
+        "y": 164.62400000000002,
+        "font_size": 12.0,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "To gain hands-on experience in software development and   ●",
+        "page": 0,
+        "x": 203.21,
+        "y": 179.024,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 59
+      },
+      {
+        "text": "enhance my skills in coding, debugging, and problem-solving within a professional setting.",
+        "page": 0,
+        "x": 203.21,
+        "y": 193.54399999999998,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 61
+      },
+      {
+        "text": "within a professional setting.",
+        "page": 0,
+        "x": 203.21,
+        "y": 208.06400000000008,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 31
+      },
+      {
+        "text": "To apply my knowledge of computer science concepts in   ●",
+        "page": 0,
+        "x": 203.21,
+        "y": 222.46400000000006,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 57
+      },
+      {
+        "text": "real-world projects and contribute effectively to a team",
+        "page": 0,
+        "x": 203.21,
+        "y": 236.98400000000004,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 57
+      },
+      {
+        "text": "INSERT PASSPORT SIZE",
+        "page": 0,
+        "x": 63.984,
+        "y": 245.20399999999995,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "To develop expertise in modern programming technologies and  ● PHOTO strengthen my ability to solve technical challenges creatively  (use photo with formal pose,",
+        "page": 0,
+        "x": 203.21,
+        "y": 251.50400000000002,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 68
+      },
+      {
+        "text": "strengthen my ability to solve technical challenges creatively  (use photo with formal pose,",
+        "page": 0,
+        "x": 203.21,
+        "y": 265.904,
+        "font_size": 12.0,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 93
+      },
+      {
+        "text": "and efficiently attire with collar, white background)",
+        "page": 0,
+        "x": 203.21,
+        "y": 280.45400000000006,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 42
+      },
+      {
+        "text": "background)",
+        "page": 0,
+        "x": 136.58,
+        "y": 291.6413600000001,
+        "font_size": 9.0,
+        "font_name": "TimesNewRomanPSMT",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 185.18,
+        "y": 294.77527999999995,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "PERSONAL INFORMATION",
+        "page": 0,
+        "x": 45.0,
+        "y": 307.97528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "Age:",
+        "page": 0,
+        "x": 73.944,
+        "y": 327.29527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "22 years old",
+        "page": 0,
+        "x": 171.26,
+        "y": 327.29527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Date of Birth:  March 9, 2003",
+        "page": 0,
+        "x": 73.944,
+        "y": 344.33528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 30
+      },
+      {
+        "text": "Gender:",
+        "page": 0,
+        "x": 73.944,
+        "y": 361.37528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "Male",
+        "page": 0,
+        "x": 171.26,
+        "y": 361.37528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 5
+      },
+      {
+        "text": "Civil Status:",
+        "page": 0,
+        "x": 73.944,
+        "y": 378.29527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "Single",
+        "page": 0,
+        "x": 171.26,
+        "y": 380.45528,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 7
+      },
+      {
+        "text": "Height:",
+        "page": 0,
+        "x": 73.944,
+        "y": 399.65527999999995,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "5 ft. 11 inches",
+        "page": 0,
+        "x": 171.26,
+        "y": 399.65527999999995,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 16
+      },
+      {
+        "text": "Weight:",
+        "page": 0,
+        "x": 73.944,
+        "y": 416.69528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "55 kg",
+        "page": 0,
+        "x": 171.26,
+        "y": 416.69528,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 6
+      },
+      {
+        "text": "Nationality:",
+        "page": 0,
+        "x": 73.944,
+        "y": 433.73528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 14
+      },
+      {
+        "text": "Filipino",
+        "page": 0,
+        "x": 171.26,
+        "y": 433.73528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 9
+      },
+      {
+        "text": "Religion:",
+        "page": 0,
+        "x": 73.944,
+        "y": 450.77527999999995,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "Roman Catholic",
+        "page": 0,
+        "x": 171.26,
+        "y": 450.77527999999995,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 15
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 466.27527999999995,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "SEMINARS AND TRAINING EXPERIENCES",
+        "page": 0,
+        "x": 45.0,
+        "y": 479.59528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 34
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 492.79528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Seminar Title: IDEAS Plugin Activity",
+        "page": 0,
+        "x": 72.024,
+        "y": 506.11528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 37
+      },
+      {
+        "text": "Venue: Davao del Sur State College",
+        "page": 0,
+        "x": 72.024,
+        "y": 519.4352799999999,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 35
+      },
+      {
+        "text": "Date: March 27-28, 2025",
+        "page": 0,
+        "x": 72.024,
+        "y": 532.63528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 24
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 545.9552799999999,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "TECHNOLOGY SKILLS",
+        "page": 0,
+        "x": 45.0,
+        "y": 559.15528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 18
+      },
+      {
+        "text": "Skill 1 – Basic knowledge of Python and Java, with experience in small academic projects.  ●",
+        "page": 0,
+        "x": 81.024,
+        "y": 572.47528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 92
+      },
+      {
+        "text": "Skill 2 – Familiar with HTML, CSS, and JavaScript for simple web pages and front-end  ●",
+        "page": 0,
+        "x": 81.024,
+        "y": 587.83528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 87
+      },
+      {
+        "text": "development.",
+        "page": 0,
+        "x": 81.024,
+        "y": 603.07528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Skill 3 – Previously worked with MySQL in academic projects.  ●",
+        "page": 0,
+        "x": 81.024,
+        "y": 618.31528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 63
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 81.024,
+        "y": 633.55528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "EDUCATIONAL BACKGROUND",
+        "page": 0,
+        "x": 45.0,
+        "y": 648.79528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 23
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 662.14528,
+        "font_size": 11.04000000000002,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "College",
+        "page": 0,
+        "x": 77.424,
+        "y": 675.46528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 8
+      },
+      {
+        "text": "COR JESU COLLEGE 2022-Present",
+        "page": 0,
+        "x": 176.3,
+        "y": 675.46528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "2022-Present",
+        "page": 0,
+        "x": 446.59,
+        "y": 675.46528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "Bachelor of Science in Computer Science",
+        "page": 0,
+        "x": 176.3,
+        "y": 688.6652799999999,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 40
+      },
+      {
+        "text": "Digos City, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 701.98528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 176.3,
+        "y": 715.30528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "High School",
+        "page": 0,
+        "x": 77.424,
+        "y": 728.50528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 12
+      },
+      {
+        "text": "St. Mary’s College of Bansalan, INC 2016-2022",
+        "page": 0,
+        "x": 176.3,
+        "y": 728.50528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDHEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 36
+      },
+      {
+        "text": "2016-2022",
+        "page": 0,
+        "x": 446.59,
+        "y": 728.50528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 10
+      },
+      {
+        "text": "Dahlia Street, Bansalan, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 741.82528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 176.3,
+        "y": 755.14528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "Grade School",
+        "page": 0,
+        "x": 77.424,
+        "y": 768.34528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 13
+      },
+      {
+        "text": "St. Mary’s College of Bansalan, INC 2010-2016",
+        "page": 0,
+        "x": 176.3,
+        "y": 768.34528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDHEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 36
+      },
+      {
+        "text": "2010-2016",
+        "page": 0,
+        "x": 446.59,
+        "y": 768.34528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 10
+      },
+      {
+        "text": "Dahlia Street, Bansalan, Davao del Sur",
+        "page": 0,
+        "x": 176.3,
+        "y": 781.6652799999999,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 176.3,
+        "y": 794.86528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 72.024,
+        "y": 808.18528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "REFERENCES",
+        "page": 0,
+        "x": 45.0,
+        "y": 821.50528,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 11
+      },
+      {
+        "text": "",
+        "page": 0,
+        "x": 45.0,
+        "y": 834.70128,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 1
+      },
+      {
+        "text": "DARYL IVAN E. HISOLA",
+        "page": 0,
+        "x": 45.0,
+        "y": 848.04528,
+        "font_size": 11.040000000000006,
+        "font_name": "BCDFEE+Tahoma-Bold",
+        "is_bold": true,
+        "is_italic": false,
+        "char_count": 21
+      },
+      {
+        "text": "BSIT Practicum Coordinator",
+        "page": 0,
+        "x": 45.0,
+        "y": 861.36528,
+        "font_size": 11.039999999999992,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 27
+      },
+      {
+        "text": "Cor Jesu College darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 60.48527999999999,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 17
+      },
+      {
+        "text": "darylhisola@g.cjc.edu.ph / 09662882958",
+        "page": 1,
+        "x": 45.0,
+        "y": 73.80527999999993,
+        "font_size": 11.040000000000077,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 39
+      },
+      {
+        "text": "",
+        "page": 1,
+        "x": 45.0,
+        "y": 87.14527999999996,
+        "font_size": 11.039999999999964,
+        "font_name": "BCDEEE+Tahoma",
+        "is_bold": false,
+        "is_italic": false,
+        "char_count": 1
+      }
+    ],
+    "font_statistics": {
+      "mean_font_size": 11.186842105263153,
+      "median_font_size": 11.04000000000002,
+      "max_font_size": 15.960000000000036,
+      "min_font_size": 9.0,
+      "font_size_std": 0.8039478421912645,
+      "bold_elements_count": 40,
+      "italic_elements_count": 0
+    },
+    "layout_analysis": {
+      "total_elements": 76,
+      "y_range": 823.61328,
+      "x_range": 401.59,
+      "column_boundaries": [
+        57.192,
+        108.802,
+        153.92000000000002,
+        194.195,
+        324.9
+      ],
+      "estimated_columns": 6
+    }
+  },
+  "error": null
+}
