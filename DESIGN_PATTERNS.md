@@ -191,11 +191,6 @@ class ParsedResume:
     parsed: Dict[str, Any]
 ```
 
-## How To Extend
-
-- Add a new scoring strategy: implement a class with a single `score(...)`‑style method; wire it in `BatchProcessor.process_batch` alongside or in place of existing strategies.
-- Swap LLM providers: set `LLM_PROVIDER` and keys in environment; no code changes to callers.
-- Parser backend changes: extend `PDFParser` to branch by config (e.g., PyMuPDF4LLM), keeping the same structured output schema.
 
 ## References At A Glance
 
