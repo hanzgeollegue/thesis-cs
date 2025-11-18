@@ -156,41 +156,6 @@ def get_llm_config() -> dict:
     return {'provider': 'openai', 'api_key': OPENAI_API_KEY, 'model': OPENAI_MODEL, ...}
 ```
 
-## DTO / Value Objects — Dataclasses for Pipeline Contracts
-
-Dataclasses define clear payload contracts between stages (parsed data, scores, results), lowering coupling and easing testing.
-
-File: `resume_reviewer/resume_processor/batch_processor.py:130`
-```python
-@dataclass
-class ResumeScores:
-    section_tfidf: float = 0.0
-    skill_tfidf: float = 0.0
-    sbert_score: float = 0.0
-    ce_score: float = 0.0
-    combined_tfidf: float = 0.0
-    tfidf_norm: float = 0.0
-    semantic_norm: float = 0.0
-    ce_norm: float = 0.0
-    has_match_skills: bool = False
-    has_match_experience: bool = False
-    matched_required_skills: List[str] = field(default_factory=list)
-    coverage: float = 0.0
-    final_score: float = 0.0
-```
-
-File: `resume_reviewer/resume_processor/batch_processor.py:150`
-```python
-@dataclass
-class ParsedResume:
-    id: str
-    sections: Dict[str, str]
-    meta: Dict[str, Any]
-    scores: ResumeScores
-    matched_skills: List[Dict[str, str]]
-    parsed: Dict[str, Any]
-```
-
 
 ## References At A Glance
 
@@ -200,4 +165,4 @@ class ParsedResume:
 - Strategy (Cross‑Encoder): `resume_reviewer/resume_processor/llm_ranker.py:56,88`
 - Adapter/Facade (Parser): `resume_reviewer/resume_processor/enhanced_pdf_parser.py:237`
 - Provider Strategy: `resume_reviewer/resume_processor/config.py`
-- DTOs: `resume_reviewer/resume_processor/batch_processor.py:130,150`
+
